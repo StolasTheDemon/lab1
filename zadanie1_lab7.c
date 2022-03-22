@@ -1,10 +1,3 @@
-#include <stdio.h>
-#include <conio.h>
-#include <math.h>
-#include <time.h>
- 
-				// прототипы функций
-
 void vorm_vector(int nn, int vector_max, int vector_min, int vector[nn]);
 
 int main()
