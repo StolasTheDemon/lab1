@@ -1,6 +1,6 @@
 int main()
 {
-    char str[50];
+    char str[30];
     printf("\nVvedite stroku simvolov:\n");	//ввод исходных данных
     printf("\n str=");
     scanf("%s", str);
